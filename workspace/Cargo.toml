@@ -1,0 +1,10 @@
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+members = [
+  "nested_one/nested_two",
+  "../detached_workspace_member"
+]
+

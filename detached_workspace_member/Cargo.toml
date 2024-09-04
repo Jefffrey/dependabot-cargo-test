@@ -1,0 +1,5 @@
+[package]
+name = "detached_workspace_member"
+version = { workspace = true }
+edition = { workspace = true }
+workspace = "../workspace"

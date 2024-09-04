@@ -1,0 +1,8 @@
+[package]
+name = "detached_crate_success"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nested_two = { path = "../workspace/nested_one/nested_two" }
+detached_workspace_member = { path = "../detached_workspace_member" }

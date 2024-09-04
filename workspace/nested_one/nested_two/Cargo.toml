@@ -1,0 +1,5 @@
+[package]
+name = "nested_two"
+version = { workspace = true }
+edition = { workspace = true }
+

@@ -1,0 +1,4 @@
+[package]
+name = "incorrect_workspace"
+version = { workspace = true }
+edition = { workspace = true }
