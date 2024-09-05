@@ -2,4 +2,4 @@
 name = "incorrect_detached_workspace_member"
 version = { workspace = true }
 edition = { workspace = true }
-workspace = "../detached_crate_fail_1"
+workspace = "../standalone"
